@@ -1,0 +1,13 @@
+{
+    "name": "BlogGroup",
+    "alias": "bloggroup",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\BlogGroup\\Providers\\BlogGroupServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
